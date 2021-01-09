@@ -1,0 +1,12 @@
+D:\visual studi\batch compiler\batch compiler\bin\Debug\batch compiler.exe.config
+D:\visual studi\batch compiler\batch compiler\bin\Debug\batch compiler.exe
+D:\visual studi\batch compiler\batch compiler\bin\Debug\batch compiler.pdb
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch compiler.csprojResolveAssemblyReference.cache
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch_compiler.Form1.resources
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch_compiler.Properties.Resources.resources
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch compiler.csproj.GenerateResource.Cache
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch compiler.exe
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch compiler.pdb
+D:\visual studi\batch compiler\batch compiler\bin\Debug\es-419\batch compiler.resources.dll
+D:\visual studi\batch compiler\batch compiler\obj\Debug\batch_compiler.Form1.es-419.resources
+D:\visual studi\batch compiler\batch compiler\obj\Debug\es-419\batch compiler.resources.dll
